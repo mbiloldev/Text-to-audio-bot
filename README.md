@@ -3,6 +3,10 @@
 Foydalanuvchi yuborgan **matnni** avtomatik ravishda **audio xabarga** aylantirib qaytaruvchi Telegram bot.
 
 ---
+UZBEK CODER
+
+
+---
 
 ## 📦 Kerakli paketlar
 
