@@ -3,8 +3,10 @@
 Foydalanuvchi yuborgan **matnni** avtomatik ravishda **audio xabarga** aylantirib qaytaruvchi Telegram bot.
 
 ---
-UZBEK CODER
-
+# UZBEK CODER
+<div align="center">
+  <img src="./banner.svg" width="100%"/>
+</div>
 
 ---
 
