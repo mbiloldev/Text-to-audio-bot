@@ -4,6 +4,7 @@ Foydalanuvchi yuborgan **matnni** avtomatik ravishda **audio xabarga** aylantiri
 
 ---
 # UZBEK CODER
+---
 <div align="center">
   <img src="./banner.svg" width="100%"/>
 </div>
